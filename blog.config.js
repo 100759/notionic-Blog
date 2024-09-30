@@ -41,7 +41,7 @@ const BLOG = {
     // 是否显示项目页面
     projects: true,
     // 是否显示联系页面
-    contact: true,
+    contact: false,
     // 是否显示书籍页面
     books: true,
     // 是否显示朋友页面
