@@ -48,7 +48,7 @@ const BLOG = {
     friends: true
   },
   // 是否显示微信支付二维码
-  showWeChatPay: true,
+  showWeChatPay: false,
   // 是否启用预览图片功能
   previewImagesEnabled: true,
   // 是否自动折叠导航栏
