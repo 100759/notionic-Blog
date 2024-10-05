@@ -84,7 +84,7 @@ const BLOG = {
   // Telegram 机器人令牌，在.env 文件中编辑！
   telegramToken: process.env.TELEGRAM_TOKEN,
   // Telegram 聊天 ID
-  telegramChatId: '7414610659',
+  telegramChatId: '7219834397',
   // Telegram 频道链接
   telegramChannelUrl: 'https://t.me/+N2njYRUc1-gxYWU1',
   // Telegram 频道名称
